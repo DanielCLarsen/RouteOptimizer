@@ -1,7 +1,7 @@
 # Route Optimizer
 ## How to run the demo:
-- Input apikey in route-optimizer-frontend/.env
-- Input apikey in route-optimizer-backend/appsettings.json
+- Input apikey in route-optimizer-frontend/.env (instead of "x")
+- Input apikey in route-optimizer-backend/appsettings.json (instead of "x")
 - Run route-optimizer-backend with "dotnet run" f.example
 - Run route-optimizer-frontend with "npm start"
 - Input a few addresses - pressing enter to add the address is possible
@@ -48,7 +48,3 @@
     - It was considered to add an exceptionhandling middleware - but was descoped
   - **Logging**
     - It was considered adding logging, but was descoped for simple console.logs - given that its a demo challenge.
-
-
-## Todo:
-- Handle ApiKey config better
