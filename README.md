@@ -14,7 +14,8 @@
 -  Right now the line is shown as bird-view instead of following the roads, but the calculated durations and distances are ofcourse based on the roads.
 
 ## Additional work that could be done:
-- Make it look like normal google maps by expanding backend to send encrypted polylines that can be decrypted and displayed in steps on the front-end map. 
+- Make it look like normal google maps by expanding backend to send encrypted polylines that can be decrypted and displayed in steps on the front-end map.
+- Display errors in frontend in a user-friendly manner - for example when an address is invalid. (Right now errors are displayed in the console)
  
 ## Technologies that were used to create this project:
 - Github and VSCode git extension
