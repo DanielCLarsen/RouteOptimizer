@@ -1,0 +1,5 @@
+route-optimizer-backend/bin/*
+route-optimizer-backend/obj/*
+RouteOptimizerTests/bin/*
+RouteOptimizerTests/obj/*
+route-optimizer-backend-tests/obj/*

@@ -1,0 +1,100 @@
+/* AddressList.css */
+.address-list-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #e6f2ff;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.address-input-container {
+  display: flex;
+  margin-top: 20px;
+}
+
+.address-input {
+  padding: 10px;
+  width: 300px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.add-button, .clear-button, .optimize-button {
+  padding: 10px 15px;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-left: 10px;
+}
+
+.add-button {
+  background-color: #28a745;
+}
+
+.add-button:hover {
+  background-color: #218838;
+}
+
+.clear-button {
+  background-color: #dc3545;
+}
+
+.clear-button:hover {
+  background-color: #c82333;
+}
+
+.optimize-button {
+  background-color: #007bff;
+}
+
+.optimize-button:hover {
+  background-color: #0056b3;
+}
+
+.address-list {
+  list-style-type: none;
+  padding: 0;
+  width: 300px;
+}
+
+.address-item {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #d3d3d3;
+  padding: 5px;
+  margin: 5px 0;
+  border-radius: 5px;
+}
+
+.address-text {
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  flex-grow: 1;
+  margin-right: 10px;
+}
+
+.remove-button {
+  background-color: #dc3545;
+  color: white;
+  border: none;
+  border-radius: 50%;
+  cursor: pointer;
+  padding: 5px;
+}
+
+.remove-button:hover {
+  background-color: #c82333;
+}
+
+.button-container {
+  display: flex;
+  gap: 10px;
+}
+
+.map-spacing {
+  margin-bottom: 20px;
+}

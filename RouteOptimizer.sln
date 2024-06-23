@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "route-optimizer-backend", "route-optimizer-backend\route-optimizer-backend.csproj", "{2F64F5F8-B20F-4B9E-A1E7-954D9F46C623}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F64F5F8-B20F-4B9E-A1E7-954D9F46C623}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F64F5F8-B20F-4B9E-A1E7-954D9F46C623}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F64F5F8-B20F-4B9E-A1E7-954D9F46C623}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F64F5F8-B20F-4B9E-A1E7-954D9F46C623}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B58E4FC6-5652-4F90-B7B5-1FFD9F5A05DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B58E4FC6-5652-4F90-B7B5-1FFD9F5A05DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B58E4FC6-5652-4F90-B7B5-1FFD9F5A05DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B58E4FC6-5652-4F90-B7B5-1FFD9F5A05DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {30263B57-B585-4F64-8EEC-E2ED5C81BC4A}
+	EndGlobalSection
+EndGlobal
