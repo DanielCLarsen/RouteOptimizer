@@ -1,4 +1,8 @@
 # Route Optimizer
+
+## Disclaimer
+This is a code challenge i did for a company. Take the features and front-end design with a grain of salt. What i want to be in the focus for this project, is the structure of the code and the practices employed.
+
 ## How to run the demo:
 - Input apikey in route-optimizer-frontend/.env (instead of "x")
 - Input apikey in route-optimizer-backend/appsettings.json (instead of "x")
